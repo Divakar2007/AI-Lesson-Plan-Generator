@@ -1,0 +1,5 @@
+{
+  "name": "AI Lesson Plan Generator",
+  "description": "An AI-powered tool for educators to generate detailed lesson plans. Users can specify the subject, grade level, and duration to receive a comprehensive plan including objectives, activities, and assessments, with options to save or print.",
+  "requestFramePermissions": []
+}
